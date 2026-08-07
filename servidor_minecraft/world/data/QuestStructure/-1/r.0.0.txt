@@ -1,0 +1,6 @@
+NetherThorn2,99,111,-45,-32
+NetherThorn2,-104,-91,-152,-140
+<<<<<<< HEAD
+=======
+NetherThorn5,133,158,-118,-107
+>>>>>>> 310890e ([🌙] Historial reiniciado 2026-07-31)
